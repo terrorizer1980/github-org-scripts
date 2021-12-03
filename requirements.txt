@@ -195,7 +195,7 @@ nbformat==5.1.3 \
 nest-asyncio==1.5.1 \
     --hash=sha256:76d6e972265063fe92a90b9cc4fb82616e07d586b346ed9d2c89a4187acea39c \
     --hash=sha256:afc5a1c515210a23c461932765691ad39e8eba6551c055ac8d5546e69250d0aa
-notebook==6.3.0 \
+notebook==5.7.11 \
     --hash=sha256:cb271af1e8134e3d6fc6d458bdc79c40cbfc84c1eb036a493f216d58f0880e92 \
     --hash=sha256:cbc9398d6c81473e9cdb891d2cae9c0d3718fca289dda6d26df5cb660fcadc7d
 packaging==20.9 \
@@ -255,7 +255,7 @@ pywinpty==1.0.1; os_name == "nt" \
     --hash=sha256:aa3e4178503ff6be3e8a1d9ae4ce77de9058308562dbf26b505a51583be9f02d \
     --hash=sha256:58e23d59891e624d478ec7bcc42ced0ecfbf0a4e7cb0217de714f785f71c2461 \
     --hash=sha256:b3512d4a964a0abae1b77b6908917c62ea0ad7d8178696e4e973877fe9e820f9
-pyyaml==5.1.2 \
+pyyaml==5.4 \
     --hash=sha256:5124373960b0b3f4aa7df1707e63e9f109b5263eca5976c66e08b1c552d4eaf8 \
     --hash=sha256:f81025eddd0327c7d4cfe9b62cf33190e1e736cc6e97502b3ec425f574b3e7a8 \
     --hash=sha256:0113bc0ec2ad727182326b61326afa3d1d8280ae1122493553fd6f4397f33df9 \
@@ -379,7 +379,7 @@ uritemplate==3.0.1 \
 uritemplate.py==3.0.2 \
     --hash=sha256:a0c459569e80678c473175666e0d1b3af5bc9a13f84463ec74f808f3dd12ca47 \
     --hash=sha256:e0cdeb0f55ec18e1580974e8017cd188549aacc2aba664ae756adb390b9d45b4
-urllib3==1.26.4 \
+urllib3==1.26.5 \
     --hash=sha256:2f4da4594db7e1e110a944bb1b551fdf4e6c136ad42e4234131391e21eb5b0df \
     --hash=sha256:e7b021f7241115872f92f43c6508082facffbd1c048e3c6e2bb9c2a157e28937
 wcwidth==0.2.5 \
