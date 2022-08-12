@@ -186,7 +186,7 @@ mistune==0.8.4 \
 nbclient==0.5.3 \
     --hash=sha256:e79437364a2376892b3f46bedbf9b444e5396cfb1bc366a472c37b48e9551500 \
     --hash=sha256:db17271330c68c8c88d46d72349e24c147bb6f34ec82d8481a8f025c4d26589c
-nbconvert==6.0.7 \
+nbconvert==6.3.0b0 \
     --hash=sha256:39e9f977920b203baea0be67eea59f7b37a761caa542abe80f5897ce3cf6311d \
     --hash=sha256:cbbc13a86dfbd4d1b5dee106539de0795b4db156c894c2c5dc382062bbc29002
 nbformat==5.1.3 \
