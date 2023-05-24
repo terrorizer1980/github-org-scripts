@@ -308,7 +308,7 @@ qtconsole==5.0.3 \
 qtpy==1.9.0 \
     --hash=sha256:fa0b8363b363e89b2a6f49eddc162a04c0699ae95e109a6be3bb145a913190ea \
     --hash=sha256:2db72c44b55d0fe1407be8fba35c838ad0d6d3bb81f23007886dc1fc0f459c8d
-requests==2.25.1 \
+requests==2.31.0 \
     --hash=sha256:c210084e36a42ae6b9219e00e48287def368a26d03a048ddad7bfee44f75871e \
     --hash=sha256:27973dd4a904a4f13b263a19c866c13b92a39ed1c964655f025f3f8d3d75b804
 selenium==3.141.0 \
