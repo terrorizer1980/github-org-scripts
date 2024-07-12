@@ -391,3 +391,4 @@ webencodings==0.5.1 \
 widgetsnbextension==3.5.1 \
     --hash=sha256:bd314f8ceb488571a5ffea6cc5b9fc6cba0adaf88a9d2386b93a489751938bcd \
     --hash=sha256:079f87d87270bce047512400efd70238820751a11d2d8cb137a5a5bdbaf255c7
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
